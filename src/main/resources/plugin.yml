@@ -1,0 +1,11 @@
+name: Wordle
+version: 1.0.0
+main: me.mystc.wordle.Wordle
+api-version: 1.18
+authors: [mystc]
+description: Wordle, pretty simple
+depend: [WorldEdit]
+commands:
+  start:
+    aliases: [wordle]
+  end:
